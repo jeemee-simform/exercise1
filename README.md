@@ -113,9 +113,9 @@ stape 13:
  -> add 3 commit on branch4
 
  -> remove last commit 
-    - git reset HEAD~1
-    - git reset HEAD~1
-    - git commit new
+    - git reset HEAD~1                                                                    
+    - git reset HEAD~1                                                                      
+    - git commit new                                                                                                      
     - git push --force origin branch4
     
  
